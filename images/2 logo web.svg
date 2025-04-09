@@ -1,0 +1,17 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+ <!-- ICH椭圆 -->
+
+ <!-- ICH文字 -->
+ <!-- BIOFARM文字 -->
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" transform="matrix(1.52088 0 0 1.52088 -39.3508 -222.017)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Arial, sans-serif" font-size="250" stroke-width="0" id="svg_3" y="472.07732" x="41.28373" fill="#000000">ICH</text>
+  <line id="svg_4" y2="702" x2="696.5" y1="0" x1="0.5" stroke="null" fill="none"/>
+  <line id="svg_5" y2="143" x2="325.5" y1="114" x1="401.5" stroke="null" fill="none"/>
+  <line id="svg_6" y2="676" x2="153.5" y1="578" x1="194.5" stroke="null" fill="none"/>
+  <line id="svg_7" y2="85" x2="336.5" y1="46" x1="100.5" stroke="null" fill="none"/>
+  <path d="m121.5,146c1,-1 16,-1 40,-1c50,0 142,-5 180,-7l4,-1" id="svg_8" stroke="null" fill="none"/>
+  <path d="m148.5,64c-148.5,-64 -148.5,-64 -148.5,-64l148.5,62l4,2l6,3" id="svg_9" stroke="null" fill="none"/>
+  <path d="m193.5,66c0,1 0.00533,6.10211 -1,11c-1.53127,7.46024 -3,14 -3,20l0,3" id="svg_10" stroke="null" fill="none"/>
+ </g>
+</svg>
