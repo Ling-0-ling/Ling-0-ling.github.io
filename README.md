@@ -1,10 +1,10 @@
 # ICH_Biofarm
 
-Click here to browse #https://ling-0-ling.github.io/#
+Click here to browse #https://ICHBiofarm.github.io/#
 
 A Web for Hangzhou ICH Biofarm Co. Ltd..
 
-Developed by: **Shicong Leng**.
+Individially developed by: **Shicong Leng (Siqiniq)**.
 
 Features:
 
